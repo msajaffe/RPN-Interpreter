@@ -11,7 +11,7 @@ cd ...
 
 make
 
-./main.exe < lol.txt (contains RPN)
+./main.exe < lol.txt (contains 12 34 7 + * NEG)
 
 Output:
 
